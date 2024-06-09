@@ -1,6 +1,6 @@
 Ссылка на [google disc](https://drive.google.com/drive/folders/12mtE2xNf3esCXRAVt7jmth4dUMhCmP_f)
 
-Ссылка на [основной репозиторий]([https://github.com/eleyterokokus/mlops-demo)
+Ссылка на [основной репозиторий](https://github.com/eleyterokokus/mlops-demo)
 
 Все правки выполнялись из директории [**scripts**](https://github.com/kwazart/lab4/tree/master/scripts)
 
