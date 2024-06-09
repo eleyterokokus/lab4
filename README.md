@@ -2,7 +2,7 @@
 
 Ссылка на [основной репозиторий](https://github.com/eleyterokokus/mlops-demo)
 
-Все правки выполнялись из директории [**scripts**](https://github.com/kwazart/lab4/tree/master/scripts)
+
 
 Последовательность команд:
 
@@ -16,4 +16,4 @@
 8. ```dvc push``` - после каждой модификации данных - отправка на google disk через *dvc*
 
 Пример файлов в хранилище google disk:
-![image](https://github.com/kwazart/lab4/assets/46990077/cc84b369-d8a0-43ca-903d-97d131a1d391)
+
