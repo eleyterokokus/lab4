@@ -15,5 +15,5 @@
 7. ```python|python3 modificator_2.py``` - модификация данных #2 - применение *one-hot-encoding* для колонки **Sex**
 8. ```dvc push``` - после каждой модификации данных - отправка на google disk через *dvc*
 
-Пример файлов в хранилище google disk:
+
 
